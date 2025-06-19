@@ -2,13 +2,13 @@
 When you download and save the zip folder of the Patagonia Suggestion App, here's how to run it:
 
 On Your Local Machine:
-Extract the zip file to a folder on your computer
-Go to the project directory in your terminal/command prompt
-Install Python dependencies (if you have a pyproject.toml or requirements.txt):
-pip install flask
-Run the application:
-python main.py
-Access the app at http://localhost:8080 in your browser
+1. Extract the zip file to a folder on your computer
+2. Go to the project directory in your terminal/command prompt
+3. Install Python dependencies (if you have a pyproject.toml or requirements.txt):
+4. pip install flask
+5.Run the application:
+6. python main.py
+7. Access the app at http://localhost:8080 in your browser
 Back on Replit:
 If you want to upload the project back to a new Repl:
 
